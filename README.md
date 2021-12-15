@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShujinJS
 - 👀 I’m interested in coding recently. Languages are my forte, studied Latin and Ancient Greek and now I'm into digital languages.
-- 🌱 I’m currently learning Javascript with React.js at Bilge Adam academy.
+- 🌱 I've graduated as a Front-end developer (ReactJS) from Bilge Adam academy.
 - 📫 How to reach me: yildirimugurfend@gmail.com
 
 <!---
